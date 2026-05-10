@@ -1,0 +1,17 @@
+# Ignore Node dependencies
+node_modules
+.DS_Store
+
+# Ignore Python virtual environments
+venv
+__pycache__
+*.py[cod]
+
+# Ignore IDEs
+.vscode/
+.idea/
+
+# Ignore output files
+*.log
+*.sqlite
+/secrets/
