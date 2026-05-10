@@ -1,0 +1,17 @@
+fastapi
+uvicorn
+pydantic
+psycopg2
+sqlalchemy
+sqlalchemy[mypy]
+pgvector[sqlalchemy]
+python-dotenv
+shortuuid
+python-multipart
+pdfplumber
+openai
+requests
+httpx
+langchain
+backoff
+validators
